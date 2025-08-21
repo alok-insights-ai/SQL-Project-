@@ -35,3 +35,8 @@ Practicing SQL for data analytics.
 Learning how to model an e-commerce business in a database.
 
 Extracting actionable insights for decision-making.
+
+## 📂 Project File
+
+You can find the full SQL script here:  
+
