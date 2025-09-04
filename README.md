@@ -12,7 +12,7 @@ Wrote SQL queries to generate key business insights.
 
 ##  Key Features & Queries
 
-Database Schema – Normalized tables with primary/foreign keys.\n
+Database Schema – Normalized tables with primary/foreign keys.<br>
 Revenue Analysis – Monthly revenue trends and top-performing categories.\n
 Customer Insights – Customer Lifetime Value (CLV) calculation.\n
 Product Insights – Average ratings and total reviews per product.\n
