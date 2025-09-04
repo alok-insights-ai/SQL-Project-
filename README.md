@@ -13,9 +13,9 @@ Wrote SQL queries to generate key business insights.
 ##  Key Features & Queries
 
 Database Schema – Normalized tables with primary/foreign keys.<br>
-Revenue Analysis – Monthly revenue trends and top-performing categories.\n
-Customer Insights – Customer Lifetime Value (CLV) calculation.\n
-Product Insights – Average ratings and total reviews per product.\n
+Revenue Analysis – Monthly revenue trends and top-performing categories.<br>
+Customer Insights – Customer Lifetime Value (CLV) calculation.<br>
+Product Insights – Average ratings and total reviews per product.<br>
 Operational Metrics – Order cancellation rate by state.
 
 ##  Skills Demonstrated
