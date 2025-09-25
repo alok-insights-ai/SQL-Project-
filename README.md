@@ -36,7 +36,7 @@ Learning how to model an e-commerce business in a database.
 
 Extracting actionable insights for decision-making.
 
-## 📂 Project File
+##  Project File
 
 You can find the full SQL script here:  
 [click here](https://github.com/alok-insights-ai/SQL-Project-/blob/main/SQL%20Queries%20to%20Include%20in%20the%20Project.sql)
